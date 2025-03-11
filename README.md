@@ -55,7 +55,11 @@ BING_API_KEY=your_bing_api_key
 
 ## Running the Application  
 
-Run the chatbot using:  
+Run the chatbot using:
+```bash
+gradio app.py
+```
+or using: 
 ```bash
 python app.py
 ```
