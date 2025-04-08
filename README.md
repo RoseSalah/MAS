@@ -75,7 +75,9 @@ This will start a Gradio web interface where users can interact with the chatbot
 
 ## 📄 Project Report
 
-You can view the full project report [here](https://docs.google.com/document/d/1t1ZST2OSbIxT4_zc7LCDyyIut840k2kg/edit?usp=sharing&ouid=109821987287969277245&rtpof=true&sd=true).
+The full project report is included in this repository.  
+You can find it in the file: `AI MAS - Project Report.docx`
+OR you can view the full project report [here](https://docs.google.com/document/d/1t1ZST2OSbIxT4_zc7LCDyyIut840k2kg/edit?usp=sharing&ouid=109821987287969277245&rtpof=true&sd=true).
 
 
 This project is a simple, interactive, and practical tool for anyone looking to start a business.
