@@ -23,6 +23,7 @@ This is an AI-powered chatbot that helps users analyze market conditions for sta
 │── requirements.txt        # List of dependencies
 │── .env                    # Our API keys 
 │── README.md               # Project documentation
+│── AI MAS - Project Report.docx               # Project Development Report
 ```
 
 ## Installation  
