@@ -15,15 +15,15 @@ This is an AI-powered chatbot that helps users analyze market conditions for sta
 
 ```
 /market_analysis_chatbot
-│── app.py                  # Main entry point with Gradio interface
-│── config.py               # Configuration and environment variables
-│── search.py               # Functions related to Bing search
-│── helper.py               # Utility functions like token counting and limiting history
-│── model.py                # Functions interacting with the LLM API
-│── requirements.txt        # List of dependencies
-│── .env                    # Our API keys 
-│── README.md               # Project documentation
-│── AI MAS - Project Report.docx               # Project Development Report
+│── app.py                                   # Main entry point with Gradio interface
+│── config.py                                # Configuration and environment variables
+│── search.py                                # Functions related to Bing search
+│── helper.py                                # Utility functions like token counting and limiting history
+│── model.py                                 # Functions interacting with the LLM API
+│── requirements.txt                         # List of dependencies
+│── .env                                     # Our API keys 
+│── README.md                                # Project documentation
+│── AI MAS - Project Report.docx             # Project Development Report
 ```
 
 ## Installation  
