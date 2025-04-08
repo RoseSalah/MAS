@@ -23,7 +23,7 @@ This is an AI-powered chatbot that helps users analyze market conditions for sta
 │── requirements.txt                         # List of dependencies
 │── .env                                     # Our API keys 
 │── README.md                                # Project documentation
-│── AI MAS - Project Report.docx             # Project Development Report
+│── AI MAS - Project Report.pdf              # Project Development Report
 ```
 
 ## Installation  
@@ -76,7 +76,7 @@ This will start a Gradio web interface where users can interact with the chatbot
 ## 📄 Project Report
 
 The full project report is included in this repository.  
-You can find it in the file: `AI MAS - Project Report.docx`
+You can find it in the file: `AI MAS - Project Report.pdf`
 OR you can view the full project report [here](https://docs.google.com/document/d/1t1ZST2OSbIxT4_zc7LCDyyIut840k2kg/edit?usp=sharing&ouid=109821987287969277245&rtpof=true&sd=true).
 
 
