@@ -15,14 +15,15 @@ This is an AI-powered chatbot that helps users analyze market conditions for sta
 
 ```
 /market_analysis_chatbot
-│── app.py                  # Main entry point with Gradio interface
-│── config.py               # Configuration and environment variables
-│── search.py               # Functions related to Bing search
-│── helper.py               # Utility functions like token counting and limiting history
-│── model.py                # Functions interacting with the LLM API
-│── requirements.txt        # List of dependencies
-│── .env                    # Our API keys 
-│── README.md               # Project documentation
+│── app.py                                   # Main entry point with Gradio interface
+│── config.py                                # Configuration and environment variables
+│── search.py                                # Functions related to Bing search
+│── helper.py                                # Utility functions like token counting and limiting history
+│── model.py                                 # Functions interacting with the LLM API
+│── requirements.txt                         # List of dependencies
+│── .env                                     # Our API keys 
+│── README.md                                # Project documentation
+│── AI MAS - Project Report.pdf              # Project Development Report
 ```
 
 ## Installation  
@@ -71,5 +72,12 @@ This will start a Gradio web interface where users can interact with the chatbot
 - Add support for multiple languages.  
 - Improve the accuracy of search results.
 - Add a database to save past analyses.
+
+## 📄 Project Report
+
+The full project report is included in this repository.  
+You can find it in the file: `AI MAS - Project Report.pdf`
+OR you can view the full project report [here](https://docs.google.com/document/d/1t1ZST2OSbIxT4_zc7LCDyyIut840k2kg/edit?usp=sharing&ouid=109821987287969277245&rtpof=true&sd=true).
+
 
 This project is a simple, interactive, and practical tool for anyone looking to start a business.
